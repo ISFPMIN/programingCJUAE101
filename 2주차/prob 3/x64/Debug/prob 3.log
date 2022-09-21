@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Cju\Documents\GitHub\programingCJUAE101\2주차\prob 3\main.cpp(12,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Cju\Documents\GitHub\programingCJUAE101\2주차\prob 3\main.cpp(13,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Cju\Documents\GitHub\programingCJUAE101\2주차\prob 3\main.cpp(14,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  prob 3.vcxproj -> C:\Users\Cju\Documents\GitHub\programingCJUAE101\2주차\prob 3\x64\Debug\prob 3.exe
