@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\이상민\Documents\GitHub\programingCJUAE101\2번\2번\main.cpp(12,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\이상민\Documents\GitHub\programingCJUAE101\2번\2번\main.cpp(13,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\이상민\Documents\GitHub\programingCJUAE101\2번\2번\main.cpp(14,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  2번.vcxproj -> C:\Users\이상민\Documents\GitHub\programingCJUAE101\2번\x64\Debug\2번.exe
