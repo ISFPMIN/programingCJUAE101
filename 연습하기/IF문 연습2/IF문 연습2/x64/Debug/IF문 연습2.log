@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\이상민\Documents\GitHub\programingCJUAE101\연습하기\IF문 연습2\IF문 연습2\main.cpp(9,10): warning C4477: 'scanf_s' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\이상민\Documents\GitHub\programingCJUAE101\연습하기\IF문 연습2\IF문 연습2\main.cpp(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  IF문 연습2.vcxproj -> C:\Users\이상민\Documents\GitHub\programingCJUAE101\연습하기\IF문 연습2\x64\Debug\IF문 연습2.exe
